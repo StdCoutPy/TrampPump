@@ -1,0 +1,22 @@
+# Dependency directories
+/node_modules
+/.pnp
+
+# Build artifacts and deployment
+/dist
+*.log
+build/
+
+# Editor configs
+.idea/
+.vscode/
+
+node_modules/
+dist/
+.vscode/
+.idea/
+coverage/
+*.log
+.env
+.env.local
+.DS_Store

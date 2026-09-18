@@ -1,0 +1,6 @@
+# QUICK INLINE FIX MODE
+If the user triggers "Fix with Cline" or asks for an inline edit:
+1. DO NOT reason or think step-by-step. Skip the thought process entirely.
+2. Generate the corrected code lines IMMEDIATELY.
+3. Replace ONLY the exact problematic lines. Never touch or rewrite neighboring working functions.
+4. Do not explain the bug or your fix unless explicitly asked.

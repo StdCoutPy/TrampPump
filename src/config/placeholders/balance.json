@@ -1,0 +1,8 @@
+{
+  "bossSpawnInterval": 180,
+  "compensationMode": {
+    "timeThreshold": 15,
+    "probabilityBoost": 0.15,
+    "incomeBuff": 1.1
+  }
+}

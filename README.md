@@ -9,20 +9,19 @@
 <table width="100%">
   <tr>
     <td width="33.3%" align="center">
-      <b>🎮 Главное лобби</b><br><br>
       <img src="screenshots/01.png" width="100%" alt="Главное меню игры" style="border-radius: 8px; border: 1px solid #333;"/>
     </td>
     <td width="33.3%" align="center">
-      <b>🛠️ Кузница (Магазин)</b><br><br>
       <img src="screenshots/2.png" width="100%" alt="Магазин улучшений" style="border-radius: 8px; border: 1px solid #333;"/>
-      <img src="screenshots/3.png" width="100%" alt="Магазин улучшений" style="border-radius: 8px; border: 1px solid #333;"/>
     </td>
-    <td width="33.3%" align="center">
-      <b>🗺️ Карта кампании</b><br><br>
-      <img src="screenshots/1.png" width="100%" alt="Выбор боссов на карте" style="border-radius: 8px; border: 1px solid #333;"/>
+        <td width="33.3%" align="center">
+      <img src="screenshots/3.png" width="100%" alt="Магазин улучшений" style="border-radius: 8px; border: 1px solid #333;"/>
     </td>
     </tr>
     <tr>
+    <td width="33.3%" align="center">
+      <img src="screenshots/1.png" width="100%" alt="Выбор боссов на карте" style="border-radius: 8px; border: 1px solid #333;"/>
+    </td>
     <td width="33.3%" align="center">
       <b>🗺️ Карта кампании</b><br><br>
       <img src="screenshots/4.png" width="100%" alt="Выбор боссов на карте" style="border-radius: 8px; border: 1px solid #333;"/>
@@ -31,12 +30,12 @@
       <b>🗺️ Карта кампании</b><br><br>
       <img src="screenshots/5.png" width="100%" alt="Выбор боссов на карте" style="border-radius: 8px; border: 1px solid #333;"/>
     </td>
+      </tr>
+  <tr>
     <td width="33.3%" align="center">
       <b>🗺️ Карта кампании</b><br><br>
       <img src="screenshots/6.png" width="100%" alt="Выбор боссов на карте" style="border-radius: 8px; border: 1px solid #333;"/>
     </td>
-      </tr>
-  <tr>
     <td width="33.3%" align="center">
       <b>🗺️ Карта кампании</b><br><br>
       <img src="screenshots/7.png" width="100%" alt="Выбор боссов на карте" style="border-radius: 8px; border: 1px solid #333;"/>

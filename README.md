@@ -21,6 +21,8 @@
       <b>🗺️ Карта кампании</b><br><br>
       <img src="screenshots/1.png" width="100%" alt="Выбор боссов на карте" style="border-radius: 8px; border: 1px solid #333;"/>
     </td>
+    </tr>
+    <tr>
     <td width="33.3%" align="center">
       <b>🗺️ Карта кампании</b><br><br>
       <img src="screenshots/4.png" width="100%" alt="Выбор боссов на карте" style="border-radius: 8px; border: 1px solid #333;"/>
@@ -33,6 +35,8 @@
       <b>🗺️ Карта кампании</b><br><br>
       <img src="screenshots/6.png" width="100%" alt="Выбор боссов на карте" style="border-radius: 8px; border: 1px solid #333;"/>
     </td>
+      </tr>
+  <tr>
     <td width="33.3%" align="center">
       <b>🗺️ Карта кампании</b><br><br>
       <img src="screenshots/7.png" width="100%" alt="Выбор боссов на карте" style="border-radius: 8px; border: 1px solid #333;"/>
